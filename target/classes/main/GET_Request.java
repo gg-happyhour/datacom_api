@@ -9,7 +9,7 @@ import java.util.concurrent.ExecutionException;
 import org.testng.annotations.Test;
 
 
-public class GET_ASync_Request {
+public class GET_JSON_Request {
 
     @Test
     public void getEmployeesDetails() throws IOException, InterruptedException, ExecutionException {
